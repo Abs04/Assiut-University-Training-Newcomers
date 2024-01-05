@@ -6,5 +6,6 @@ int main() {
     ans *= x;
     ans += p;
     cout << fixed << setprecision(2)<< ans << '\n';
-    return 0; 
+    
+    return 0;
 } 
